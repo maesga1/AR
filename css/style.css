@@ -1,3 +1,96 @@
 body {
     width: 100%;
 }
+
+.cajas1 {
+    display: flex; 
+    justify-content: space-between;
+    float: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    transform: translateX(5px);
+}
+
+.contenedor:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+.contenedor {
+position: relative;
+display: inline-block;
+text-align: center;
+padding-top: 50px;
+}
+
+.msa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%; 
+}
+
+.toystory {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+}
+
+.iceage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+}
+
+.tarzan{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+}
+
+.walle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+}
+
+.car{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+}
