@@ -373,3 +373,117 @@ footer {
     margin-left: 20px;
     text-shadow: none;
   }
+
+  .tazas {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+    box-shadow: 0px 2px 5px #3498db;
+    font-size: 20px;
+
+  }
+  .camMonster{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+    box-shadow: 0px 2px 5px #3498db;
+    font-size: 20px;
+
+  }
+  .camFluffy{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+    box-shadow: 0px 2px 5px #3498db;
+    font-size: 20px;
+
+  }
+  .camMike{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+    box-shadow: 0px 2px 5px #3498db;
+    font-size: 20px;
+
+  }
+  .camMienten{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(225, 255, 0);
+    background-color: #252525f2;
+    opacity: 0.8;
+    border-radius: 5%;
+    box-shadow: 0px 2px 5px #3498db;
+    font-size: 20px;
+}
+
+/* DETAILS */
+.peluche{
+    margin-top: 420px;
+    margin-left: -30%;
+    position: absolute;
+    display: flex;
+    width: 600px;
+    height: 600px;
+  
+}
+
+.lateral{
+    width: 280%;
+    margin-left: 65%;
+    font-size: 24px;
+
+}
+
+.abajo{
+    margin-top: 400px;
+    position: relative;
+    width: 60%;
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+.abajo2{
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+.cesta{
+    border-radius: 20px;
+    background-color: #3498db;
+    color: #fff;
+    padding: 15px 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.gusta{
+    border-radius: 15px;
+    position: absolute;
+    margin-left: 5px;
+    width: 48px;
+    height: 48px;
+    box-shadow: 0px 2px 5px rgba(38, 79, 86, 0.1);
+}
