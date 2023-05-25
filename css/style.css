@@ -440,14 +440,13 @@ footer {
 }
 
 /* DETAILS */
-.peluche{
-    margin-top: 420px;
-    margin-left: -30%;
+.peluche2{
+    margin-top: 5px;
+    margin-left: 5%;
     position: absolute;
     display: flex;
     width: 600px;
     height: 600px;
-  
 }
 
 .lateral{
@@ -458,7 +457,7 @@ footer {
 }
 
 .abajo{
-    margin-top: 400px;
+    margin-top: 300px;
     position: relative;
     width: 60%;
     margin-left: 40px;
@@ -467,7 +466,7 @@ footer {
 
 .abajo2{
     margin-left: 40px;
-    margin-top: 30px;
+    margin-top: 5px;
     font-size: 24px;
 }
 
@@ -485,5 +484,14 @@ footer {
     margin-left: 5px;
     width: 48px;
     height: 48px;
+    box-shadow: 0px 2px 5px rgba(38, 79, 86, 0.1);
+}
+
+.like-count{
+    font-size: 22px;
+    margin-left: 70px;
+    margin-top: 16px;;
+    position: absolute;
+    color: #3498db;
     box-shadow: 0px 2px 5px rgba(38, 79, 86, 0.1);
 }
